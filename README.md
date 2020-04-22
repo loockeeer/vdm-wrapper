@@ -4,8 +4,9 @@ VDM Wrapper able you to retrieve data from VDM, spicy or classic.
 
 ## Install
 
-Install it with npm :
-Or with yarn : 
+Install it with npm : npm i vdm-wrapper
+
+Or with yarn : yarn add vdm-wrapper
 
 ## Exemples
 ```js
